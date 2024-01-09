@@ -53,13 +53,13 @@
    "fieldtype": "Select",
    "in_list_view": 1,
    "label": "Status",
-   "options": "Draft\nShortlisted\nRejected\nHired",
+   "options": "\nDraft\nShortlisted\nRejected\nHired",
    "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-01-09 21:31:59.633472",
+ "modified": "2024-01-09 23:12:33.546753",
  "modified_by": "Administrator",
  "module": "Tech Challeange App",
  "name": "Candidate",
